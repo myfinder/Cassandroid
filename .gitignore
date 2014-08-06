@@ -1,0 +1,23 @@
+# generated files
+bin/
+gen/
+
+# Java class files
+.classpath
+
+# eclipse settings
+*.class
+*.project
+
+# files for the dex VM
+*.dex
+
+# built application files
+*.apk
+/bin
+
+# build result files
+junit/
+
+# vim swp
+*.swp
